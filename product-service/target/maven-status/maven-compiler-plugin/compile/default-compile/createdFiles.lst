@@ -1,0 +1,11 @@
+com\aviroop\productservice\ProductServiceApplication.class
+com\aviroop\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\aviroop\productservice\dto\ProductRequest.class
+com\aviroop\productservice\dto\ProductResponse.class
+com\aviroop\productservice\util\DataLoader.class
+com\aviroop\productservice\service\ProductService.class
+com\aviroop\productservice\repository\ProductRepository.class
+com\aviroop\productservice\model\Product$ProductBuilder.class
+com\aviroop\productservice\controller\ProductController.class
+com\aviroop\productservice\model\Product.class
+com\aviroop\productservice\dto\ProductRequest$ProductRequestBuilder.class
